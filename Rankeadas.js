@@ -3,7 +3,7 @@
 let victori= 100
 let derrota = 55
 let name = " isaque "
-
+//puxando a
 contadorDeVitoria (  victori ,derrota)
 
 //funsão 1 .
